@@ -1,2 +1,3 @@
 Deuxieme poeme
-**J'aime programme avec pyton
+**J'aime programmer avec pyton
+**J'aime github aussi
